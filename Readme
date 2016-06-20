@@ -1,0 +1,6 @@
+1. You need jdk 1.8 to build and run this 
+2. Supports a basic REST service which supports 
+   - GET , POST for insurance policies
+3. Main path is /AVIVA 
+4. Sample Policy is as follows:
+   {"id":"0001","amount":1400,"endDate":"19-JUL-2017","policyHolder":"John Doe"}
